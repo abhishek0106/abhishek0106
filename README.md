@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Mishra
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Bootstrap
 - 📫 How to reach me ... https://www.linkedin.com/in/abhishek-mishra-184bb0175
 
 <!---
